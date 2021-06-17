@@ -1,4 +1,4 @@
-### Hi there 👋 I'm currently learning Front-End Software Development, ask me about video games and anime.
+### Hi there 👋 I'm currently learning Front-End Software Development and C++/Unreal. Ask me about video games and anime.
 
 <!--
 **priceliam3/priceliam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
